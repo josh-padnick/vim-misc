@@ -186,18 +186,18 @@ let g:startify_list_order = ['bookmarks', 'files', 'sessions']
 let g:startify_bookmarks = [
     \ '~/code/go/src/github.com/gruntwork-io/',
     \ '~/code/go/src/github.com/josh-padnick/',
-    \ '~/code/gruntwork-io',
-    \ '~/code/josh-padnick',
-    \ '~/code/scratch',
+    \ '~/code/gruntwork-io/',
+    \ '~/code/josh-padnick/',
+    \ '~/code/scratch/',
     \ ]
 let g:startify_custom_header = [
-    \ '   __     ______     ______     __  __    ',
-    \ '  /\ \   /\  __ \   /\  ___\   /\ \_\ \   ',
-    \ ' _\_\ \  \ \ \/\ \  \ \___  \  \ \  __ \',
-    \ '/\_____\  \ \_____\  \/\_____\  \ \_\ \_\',
-    \ '\/_____/   \/_____/   \/_____/   \/_/\/_/',
+    \ '      __     ______     ______     __  __      ',
+    \ '     /\ \   /\  __ \   /\  ___\   /\ \_\ \     ',
+    \ '    _\_\ \  \ \ \/\ \  \ \___  \  \ \  __ \    ',
+    \ '   /\_____\  \ \_____\  \/\_____\  \ \_\ \_\   ',
+    \ '   \/_____/   \/_____/   \/_____/   \/_/\/_/   ',
     \ '',
-    \ '  =========================================',
+    \ '  =============================================',
     \ '',
     \ ]
 
