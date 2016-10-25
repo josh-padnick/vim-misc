@@ -184,20 +184,20 @@ let g:Powerline_symbols="fancy" " Fancy styling
 " Startify
 let g:startify_list_order = ['bookmarks', 'files', 'sessions']
 let g:startify_bookmarks = [
-    \ '~/code/go/src/github.com/mitchellh/packer',
-    \ '~/code/hashicorp/vagrant',
-    \ '~/code/go/src/bitbucket.org/hashicorp/polaris',
-    \ '~/code/go/src/bitbucket.org/hashicorp/ps-build-manager',
+    \ '~/code/go/src/github.com/gruntwork-io/',
+    \ '~/code/go/src/github.com/josh-padnick/',
+    \ '~/code/gruntwork-io',
+    \ '~/code/josh-padnick',
+    \ '~/code/scratch',
     \ ]
 let g:startify_custom_header = [
-    \ '                _ _       _          _ _ _     ',
-    \ '               (_) |     | |        | | | |    ',
-    \ '      _ __ ___  _| |_ ___| |__   ___| | | |__  ',
-    \ '     | ''_ ` _ \| | __/ __| ''_ \ / _ \ | | ''_ \ ',
-    \ '     | | | | | | | || (__| | | |  __/ | | | | |',
-    \ '     |_| |_| |_|_|\__\___|_| |_|\___|_|_|_| |_|',
+    \ '   __     ______     ______     __  __    ',
+    \ '  /\ \   /\  __ \   /\  ___\   /\ \_\ \   ',
+    \ ' _\_\ \  \ \ \/\ \  \ \___  \  \ \  __ \',
+    \ '/\_____\  \ \_____\  \/\_____\  \ \_\ \_\',
+    \ '\/_____/   \/_____/   \/_____/   \/_/\/_/',
     \ '',
-    \ '  ======================================================',
+    \ '  =========================================',
     \ '',
     \ ]
 
